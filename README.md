@@ -11,7 +11,7 @@
   	-t                 Ping 指定的主机，直到停止。
                    	   若要停止，请键入 Ctrl+C。
    	-n count           要发送的回显请求数。
-    -l size            发送缓冲区大小。
+        -l size            发送缓冲区大小。
 	-w timeout         等待每次回复的超时时间(毫秒)。
 	-f failtimes       最大能够接受的连续失败次数。
 	-s sleepTime       每次发送请求的时间间隔（秒）
